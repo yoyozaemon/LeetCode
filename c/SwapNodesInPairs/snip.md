@@ -5,7 +5,7 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
  
 
 **Example 1:**  
-![alt text] (./swap_ex1.jpg)
+![alt text](./swap_ex1.jpg)  
 **Input:** head = [1,2,3,4]  
 **Output:** [2,1,4,3]
 
